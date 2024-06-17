@@ -1,2 +1,2 @@
 # Data Structures
-<h1>Descriptions for ADTs:</h1>
+<h2>Descriptions for ADTs:</h2>
