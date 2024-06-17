@@ -2,7 +2,7 @@
 <h2>Descriptions for ADTs:</h2>
 
 - <h3>Lab1:</h3>
-  This project represents a <i>Collection</i> ADT
+  This project represents a <i>Collection</i> ADT\n
   - Includes a custom-made Iterator
   
   - ADT's base Data Structure: Dynamic Array
