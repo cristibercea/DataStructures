@@ -30,7 +30,7 @@
   - ADT's base Data Structure: Hash Table (Open Adressing -> Double Hashing)
 
 - <h3>Lab5:</h3>
-  This project represents a <i>Matrix</i> ADT
+  This project represents a <i>Rare Matrix</i> ADT
   
   - ADT's base Data Structure: Binary Search Tree
 
