@@ -2,7 +2,7 @@
 <h2>Descriptions for ADTs</h2>
 
 - <h3>Lab1:</h3>
-  This project represents a <i>Collection</i> ADT\n
+  This project represents a <i>Collection</i> ADT
   
   - Includes a custom-made Iterator
   
